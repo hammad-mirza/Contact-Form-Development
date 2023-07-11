@@ -37,7 +37,7 @@ Before running this application, make sure you have the following prerequisites 
 
 3. Update the database credentials in the PHP code:
    - Open the `process_form.php` file.
-   - Replace the placeholder values (`your_username`, `your_password`, `your_database_name`) with your actual MySQL database credentials.
+   - Replace the placeholder values (`root`, ``, `contact`) with your actual MySQL database credentials.
 
 ## Application Setup
 
